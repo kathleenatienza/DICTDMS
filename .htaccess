@@ -1,0 +1,3 @@
+#THIS IS 404 ERROR PAGE TO SHOW
+
+ErrorDocument 404 aspinacademy.site/AspinAcademy/404.php
